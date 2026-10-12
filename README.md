@@ -15,7 +15,8 @@
 | **GitHub** | [linyike-stu/0153B040](https://github.com/linyike-stu/0153B040) |
 
 ### 個人照片
-![個人照片](./images/.gitkeep)
+![個人照片](./images/.gitkeep)<img width="1108" height="1477" alt="實驗照片" src="https://github.com/user-attachments/assets/7bf26b64-48ff-4865-965b-200504ba5b4e" />
+
 
 ---
 
