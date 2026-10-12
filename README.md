@@ -15,7 +15,7 @@
 | **GitHub** | [linyike-stu/0153B040](https://github.com/linyike-stu/0153B040) |
 
 ### 個人照片
-![個人照片](./images/profile.jpg)
+![個人照片](./images/.gitkeep)
 
 ---
 
