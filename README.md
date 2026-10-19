@@ -1,3 +1,4 @@
+
 # Scientist’s Mission (0153B040 林宜可)
 ## Who Stole TP53’s Superpower? Searching for the Key to Unlock Cancer
 ### Using AI to Uncover the Secrets of TP53–DNA Interactions
@@ -9,7 +10,8 @@
 
 **Answer:**
 
-![TP53 Structure](image/image_1.png)
+![TP53 Structure](image/image_1.png)<img width="549" height="408" alt="圖片1" src="https://github.com/user-attachments/assets/ea60cc8e-df21-4701-acb2-a6e61d0e1e38" />
+
 
 #### 1. The Bond Linking Amino Acids: Peptide Bonds
 * **Type:** Covalent amide bond.
@@ -33,7 +35,8 @@ Hydrogen bonding is crucial for protein structure and function, particularly in 
 
 **Answer:**
 
-![Nucleotide Structure](image/image_2.png)
+![Nucleotide Structure](image/image_2.png)<img width="531" height="394" alt="圖片2" src="https://github.com/user-attachments/assets/45a67545-4e29-48de-8e96-7f2cd7530e3b" />
+
 
 #### 1. How Nucleotides Assemble into Double-Stranded DNA
 * **Single Strand:** Joined by phosphodiester bonds between sugars and phosphates to form the backbone.
